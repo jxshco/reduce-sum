@@ -1,6 +1,6 @@
 {
   "name": "reduce-sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a total sum of specific key of an array of objects",
   "main": "./lib/index.js",
   "directories": {
@@ -17,7 +17,13 @@
     "type": "git",
     "url": "git+https://github.com/jxshco/reduce-sum.git"
   },
-  "keywords": ["javascript", "es6", "sum", "reduce", "array"],
+  "keywords": [
+    "javascript",
+    "es6",
+    "sum",
+    "reduce",
+    "array"
+  ],
   "author": "Josh Sturrock <jxshco@gmail.com>",
   "license": "MIT",
   "bugs": {
