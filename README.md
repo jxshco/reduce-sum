@@ -50,7 +50,7 @@ ReduceSum([{ a: 139, c: 22 }, { a: 233, b: 'hi' }, { a: 112, b: 18 }], 'a')
 // 484
 
 let cart = [{ name: 'Jeans', quantity: 1 }, { name: 'Socks', quantity: 3 }, { name: 'T-Shirt', quantity: 6 }]
-let totalItems = reduceSum(cart, 'quantity')
+let totalItems = ReduceSum(cart, 'quantity')
 // 10
 ```
 
